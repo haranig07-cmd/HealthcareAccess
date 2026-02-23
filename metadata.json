@@ -1,0 +1,5 @@
+{
+  "name": "Smart Healthcare Access System",
+  "description": "A comprehensive digital platform connecting patients, doctors, and hospitals with AI-powered symptom analysis and emergency SOS features.",
+  "requestFramePermissions": ["geolocation"]
+}
